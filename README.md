@@ -1,7 +1,7 @@
 Materials for APSA Short Course on DeclareDesign
 
-[Download RStudio](https://rstudio.org)
+1. [Download RStudio](https://www.rstudio.com/products/rstudio/download/)
 
-Installing DeclareDesign: `install.packages("DeclareDesign")`
+2. Install DeclareDesign: `install.packages("DeclareDesign")`
 
-[Example design code](/example_design.R)
+3. [Example design code](/example_design.R)
