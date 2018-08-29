@@ -4,4 +4,4 @@ Materials for APSA Short Course on DeclareDesign
 
 2. Install DeclareDesign: `install.packages("DeclareDesign")`
 
-3. [Example design code](/example_design.R)
+3. Download [example design code](/example_design.R)
