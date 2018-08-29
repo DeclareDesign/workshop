@@ -1,4 +1,4 @@
-# Materials for APSA Short Course on DeclareDesign
+Materials for APSA Short Course on DeclareDesign
 
 [Download RStudio](https://rstudio.org)
 
